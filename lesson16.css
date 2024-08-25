@@ -1,0 +1,59 @@
+.total-div {
+  height: 200px;
+  width: 300px; 
+  position: relative;
+}
+
+.first-horizontal{
+  width: 300px;
+  height: 100px;
+  
+
+}
+
+.video-pic{
+  width: 100%;
+  position: relative;
+
+
+}
+.video-time{
+  position: absolute;
+  background-color: black;
+  color: white;
+  bottom: 15px;
+  right: 15px;
+  font-family: arial;
+}
+.second-horizontal {
+  width: 300px;
+  height: 100px;
+  display: flex;
+align-items: center;
+justify-content: center;
+padding-top: 100px;
+}
+.profile-pic {
+  height: 50px;
+  width: 55px;
+  border-radius: 50%;
+ 
+}
+.profile {
+  position: relative;
+  display: inline-block;
+}
+.showable {
+  position: absolute;
+  display: flex;
+  opacity: 0;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  top: 10px ;
+  background-color: red;
+
+}
+.showable:hover {
+  opacity: 1;
+}

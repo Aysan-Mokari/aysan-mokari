@@ -1,0 +1,23 @@
+ <div>
+      <div>
+        <div>
+          <img class="thumbnail" src="thumbnails/thumbnail-1.webp">
+          <div>14:20</div>
+        </div>
+        <div>
+          <div class="channel-picture">
+            <img class="profile-picture" src="channel-pictures/channel-1.jpeg">
+          </div>
+          <div class="video-info">
+            <p class="video-title">
+              Talking Tech and AI with Google CEO Sundar Pichai!
+            </p>
+            <p class="video-author">
+              Marques Brownlee
+            </p>
+            <p class="video-stats">
+              3.4M views &#183; 6 months ago
+            </p>
+          </div>
+        </div>
+      </div>
